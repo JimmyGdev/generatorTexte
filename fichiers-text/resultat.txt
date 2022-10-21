@@ -1,0 +1,8 @@
+Réponse 1
+checkbox2 checkbox3 
+Réponse 2
+select2 
+Réponse 3
+RTRTR
+Réponse 4
+radio-option1
